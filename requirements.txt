@@ -1,0 +1,11 @@
+langchain-anthropic==0.1.4
+langchain-community==0.0.32
+langchain-core==0.1.41
+langchain-experimental==0.0.57
+langchain-openai==0.1.1
+langchain==0.1.15
+matplotlib==3.8.4
+mpld3==0.5.10
+pydantic==2.6.4
+sqlparse==0.4.4
+streamlit==1.29.0
